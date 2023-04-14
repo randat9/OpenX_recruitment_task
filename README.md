@@ -5,13 +5,13 @@
 This project aims to classify different forest cover types using machine learning algorithms and a neural network. The Covertype Data Set, sourced from the UCI Machine Learning Repository, is used for training and evaluation. The project includes the following steps:
 
 
-1.Data loading and preprocessing: The dataset is loaded and transformed to prepare it for machine learning models.
-2.Simple heuristic: A simple heuristic is implemented as a baseline classifier for the dataset.
-3.Baseline models: Two simple machine learning models are trained and evaluated as additional baselines.
-4.Neural network: A neural network is built and trained using TensorFlow to classify the cover types.
-5.Hyperparameter tuning: A function is implemented to find the best set of hyperparameters for the neural network.
-6.Model evaluation: The neural network and other models are evaluated using appropriate plots and metrics.
-7.REST API: A simple REST API is created to serve the models.
+1. Data loading and preprocessing: The dataset is loaded and transformed to prepare it for machine learning models.
+2. Simple heuristic: A simple heuristic is implemented as a baseline classifier for the dataset.
+3. Baseline models: Two simple machine learning models are trained and evaluated as additional baselines.
+4. Neural network: A neural network is built and trained using TensorFlow to classify the cover types.
+5. Hyperparameter tuning: A function is implemented to find the best set of hyperparameters for the neural network.
+6. Model evaluation: The neural network and other models are evaluated using appropriate plots and metrics.
+7. REST API: A simple REST API is created to serve the models.
 
 # Requirements
 The following libraries are required to run the code:
